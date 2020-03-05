@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 小园香径独徘徊
 
-You can use the [editor on GitHub](https://github.com/gaobaizero/fortda.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是我初次尝试制作的博客页面，敬请见谅。其实一直想有一个自己的博客，虽然朋友圈、QQ空间，乃至微博都有发出信息的功能，但是总觉得在那些平台发出的文章不属于自己。因为博客是等着别人主动来读的，而微博、空间、朋友圈则是把信息动态推送给别人，始终对后者有一种天然的不喜欢。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一来怕打扰那些不想阅读的人，因为推送模式实际上是强制的，每一次发出时就要考虑特定的读者的感受。于是，出现了朋友圈权限以及好友分组等，但依然是在推送时让作者进行筛选。作者又如何判断谁想读呢？Ta只能判断想给谁读。读者当然也可以选择屏蔽某人，但问题在于一个人是多面的，这样的机制使你不得不将它归类为“你愿意或不愿意读的人”而省略了Ta的多样性（可能你想看他写的影评，却不想看他作的感伤散文）。我觉得推送消息就像是广播的声音，不听要捂住耳朵，并且无法判断你刷到的下一条信息是不是你真正想读的，当你刷到时，屏蔽已经晚了。因此，它增加了我们读到的无效信息。而博客文章则像是书架上的书籍，想看就去自行取阅，能够天然地让想读的人来读，不会打扰不属于你的读者。由于读者是主动的，Ta总有来阅读的理由。
 
-### Markdown
+二来也觉得推送模式的消息没有私人空间的感觉。推送消息就好比在广场上发传单，我的声音同别人的声音交织在其他人收取信息的界面上，这样的互动关系一点也不美好。这个广场上，每一种声音都不是圆融的独立的，而被迫加入一个杂乱的场域中。不同的碎片的消息就硬生生的处在同一个场景，可能上一条动态是小明难过的情绪，下一条却是小王遇到的搞笑事件。当愤怒、疲惫、快乐、宁静、期待、抱怨等情绪毫无衔接地放置在一起，读者只会觉得人类的悲欢并不相通，更重要的是，读者无法用一种真正投入的状态去体认某人言语中的情感，因为在短而纷杂的信息中，Ta往往是应接不暇的。在博客里则不一样，一个网站上全都是你的信息，不会有其他干扰，你甚至可以将他们分组、分类，形成一个有机的整体，就像一本书拥有目录与章节一般。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+另外，推送模式的消息往往是有时效性的，而博客能够促进一个人进行更长、更有价值（永恒性）的文章，因为它的存在方式是长时间的，而且这种写作是专门的而非闲谈的，也更严肃一些。而在朋友圈中，人们一般选择多少天内可见，分享的往往是私人化的、简单的。其实只是试着用一下这个平台，没想到写了这么多，好，发布出去看看这个平台是个怎样的样式吧！
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gaobaizero/fortda.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+欢迎关注我的微博：[@古月告白](weibo.com/guyuegaobai)
